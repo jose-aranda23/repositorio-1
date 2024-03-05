@@ -1,2 +1,2 @@
-# repositorio-1
+# repositorio
 este es un repositorio de prueva

@@ -1,2 +1,1 @@
-# repositorio
-este es un repositorio de prueva
+este repositorio es una prueva mas
